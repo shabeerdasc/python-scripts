@@ -23,7 +23,7 @@ for _ in range(total):
         count = 0
         found = False
         value = i
-        while count <= 50 and found == False:
+        while count < 50 and found == False:
             if boxes[value] == i:
                 found = True
             else:
