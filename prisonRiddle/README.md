@@ -1,1 +1,1 @@
-# python-scripts
+# Prison riddle in veritasium video
