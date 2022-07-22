@@ -1,1 +1,1 @@
-spelling bee game from NYT crossword app
+answer for spelling bee game from NYT crossword app
